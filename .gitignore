@@ -6,11 +6,7 @@ __pycache__/
 
 # Ignore build and dist folders from PyInstaller
 build/
-dist/
 *.spec
-
-# Ignore executable files
-*.exe
 
 # Ignore any system-specific files (e.g., DS_Store, Thumbs.db)
 .DS_Store
